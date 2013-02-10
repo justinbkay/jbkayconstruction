@@ -12,7 +12,7 @@ For more information, see http://andreasviklund.com/templates/andreas01/
 */
 
 /* Main body */
-body {background:#286ea0 url(/img/bg.png) top center repeat-y; color:#404040; font:76% Verdana,Tahoma,Arial,sans-serif; margin:0 auto; padding:0;}
+body {background:#286ea0 url(img/bg.png) top center repeat-y; color:#404040; font:76% Verdana,Tahoma,Arial,sans-serif; margin:0 auto; padding:0;}
 #wrap {background:#fff; color:#404040; margin:0 auto; width:760px;padding: 0;}
 
 /* Basic tags */
@@ -86,7 +86,7 @@ p {margin:0 0 1.4em;}
 /* Links page */
 #links { float: left;}
 #links ul {margin-left: 50px;}
-#links ul li  {list-style: url(/img/star.png)}
+#links ul li  {list-style: url(img/star.png)}
 #links h3 {margin-left: 20px;}
 
 #slider {
@@ -94,7 +94,7 @@ p {margin:0 0 1.4em;}
 		margin-left: 324px;
     width:437px; /* Change this to your images width */
     height:180px; /* Change this to your images height */
-    background:url(/img/tetons.png) no-repeat 50% 50%;
+    background:url(img/tetons.png) no-repeat 50% 50%;
 }
 #slider img {
     position:absolute;
