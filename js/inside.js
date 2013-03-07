@@ -6,6 +6,7 @@ $().ready(function() {
   }
 
   var img = [
+                {src: 'img/familyroom.jpg', alt: 'Buffalo Bend at River Rim Ranch', text: 'Buffalo Bend at River Rim Ranch.'},
                 {src: 'img/custom_barnwood_oven_hood.jpg', alt: 'Custom barnwood oven hood', text: 'Custom Barnwood ovenhood.'},
                 {src: 'img/horse_stalls.jpg', alt: 'Custom horse stalls.', text: 'Custom stalls.'},
                 {src: 'img/wanscot.jpg', alt: 'Coffered ceiling with Craftsman style wanscot', text: 'Coffered ceiling with Craftsman style wanscot.'},
