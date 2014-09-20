@@ -6,6 +6,14 @@ $().ready(function() {
   }
 
   var img = [
+                {src: 'img/stone_box.jpg', alt: '6\' Stone Box', text: '6\' Stone Box'},
+                {src: 'img/sculpted_shower_door.jpg', alt: 'Sculpted Shower Door', text: 'Sculpted Shower Door'},
+                {src: 'img/reclaimed_timber_ceiling.jpg', alt: 'Reclaimed Timber Ceiling', text: 'Reclaimed Timber Ceiling'},
+                {src: 'img/kitchen_0914.jpg', alt: 'Kitchen', text: 'Kitchen'},
+                {src: 'img/iron_fireplace_doors.jpg', alt: 'Iron Fireplace Doors', text: 'Iron Fireplace Doors'},
+                {src: 'img/fireplace_0914.jpg', alt: 'Fireplace', text: 'Fireplace'},
+                {src: 'img/decorative_railing.jpg', alt: 'Decorative Railing', text: 'Decorative Railing'},
+                {src: 'img/copper_ceiling.jpg', alt: 'Copper Ceiling', text: 'Copper Ceiling'},
                 {src: 'img/familyroom.jpg', alt: 'Buffalo Bend at River Rim Ranch', text: 'Buffalo Bend at River Rim Ranch.'},
                 {src: 'img/custom_barnwood_oven_hood.jpg', alt: 'Custom barnwood oven hood', text: 'Custom Barnwood ovenhood.'},
                 {src: 'img/horse_stalls.jpg', alt: 'Custom horse stalls.', text: 'Custom stalls.'},
