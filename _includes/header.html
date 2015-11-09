@@ -1,0 +1,82 @@
+<header class="site-header">
+  <div class="container">
+    <nav class="navbar navbar-default navbar-fixed-top">
+      <div class="container">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand visible-xs" href="#">J.B. Kay Construction</a>
+        </div>
+
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+          <ul class="nav navbar-nav">
+            <li class="{% if page.url == "/" %}active{% endif %}"><a href="/">Home <span class="sr-only">(current)</span></a></li>
+            <li class="{% if page.url == "/exterior_pictures/" %}active{% endif %}"><a href="/exterior_pictures">Exterior Pics</a></li>
+            <li class="{% if page.url == "/interior_pictures/" %}active{% endif %}"><a href="/interior_pictures">Interior Pics</a></li>
+            <li class="{% if page.url == "/house_plans/" %}active{% endif %}"><a href="/house_plans">House Plans</a></li>
+            <li class="{% if page.url == "/partner_links/" %}active{% endif %}"><a href="/partner_links">Links</a></li>
+            <li class="{% if page.url == "/contact_information/" %}active{% endif %}"><a href="/contact_information">Contact Us</a></li>
+          </ul>
+          <ul class="nav navbar-nav navbar-right">
+            <li>
+              <a href="http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fjbkayconstruction.com&media=http%3A%2F%2Fjbkayconstruction.com%2Fimg%2Flogo.png&description=General%20contractor%20located%20in%20Rexburg%2C%20Idaho%20serving%20the%20Upper%20Snake%20River%20Region%20in%20Southeast%20Idaho%3B%20especially%20focused%20in%20Island%20Park%20and%20Teton%20%0AValley." class="pin-it-button" count-layout="horizontal"><img border="0" src="//assets.pinterest.com/images/PinExt.png" title="Pin It" /></a>
+            </li>
+          </ul>
+        </div><!-- /.navbar-collapse -->
+      </div><!-- /.container-fluid -->
+    </nav>
+    <div class="row spacer-top-large">
+      <div class="col-xs-8">
+        <h1 class="pull-left">Custom Construction</h1>
+      </div>
+      <div class="col-xs-4 col-lg-3">
+        <h2 class="pull-right">Island Park · Teton Valley · Rexburg</h2>
+      </div>
+      <div class="col-lg-1 hidden-xs">
+      </div>
+    </div>
+    <div class="row spacer-top">
+      <div class="col-xs-12 col-md-6 col-lg-6">
+        <img src="/assets/images/logo.jpg" class="img-responsive" alt="J.B.Kay Construction" />
+      </div>
+      <div class="hidden-xs col-md-6 col-lg-6">
+        <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+          <!-- Indicators -->
+          <ol class="carousel-indicators">
+            <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+            <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+            <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+          </ol>
+
+          <!-- Wrapper for slides -->
+          <div class="carousel-inner" role="listbox">
+            <div class="item active">
+              <img src="/assets/images/cabin_2.jpg" alt="Cabin">
+              <div class="carousel-caption">
+              </div>
+            </div>
+            <div class="item">
+              <img src="/assets/images/cabin_3.jpg" alt="Cabin">
+              <div class="carousel-caption">
+              </div>
+            </div>
+            <div class="item">
+              <img src="/assets/images/cabin_timbers.jpg" alt="Cabin">
+              <div class="carousel-caption">
+              </div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+
+    </div>
+
+  </div>
+</header>
