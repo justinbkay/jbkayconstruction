@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>General Contractor | Island Park | Teton Valley | Rexburg</title>
+    <description>Custom high end Construction based in Rexburg Idaho. Servicing Island Park, Teton Valley, and Rexburg.  Custom homes and cabins.</description>
+    <link>http://www.jbkayconstruction.com/</link>
+    <atom:link href="http://www.jbkayconstruction.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 08 Nov 2015 17:39:03 -0700</pubDate>
+    <lastBuildDate>Sun, 08 Nov 2015 17:39:03 -0700</lastBuildDate>
+    <generator>Jekyll v3.0.0</generator>
+    
+  </channel>
+</rss>
