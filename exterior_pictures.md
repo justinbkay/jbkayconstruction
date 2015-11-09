@@ -21,7 +21,7 @@ permalink: /exterior_pictures/
     <img src="/assets/images/caravella_ext_1.jpg" class="img-rounded img-responsive" alt="Custom elevation" />
       <br><div class="marginleft10 lead">Custom Timber Cabin.</div>
     <img src="/assets/images/cabin_timbers.jpg" class="img-rounded img-responsive" alt="Cabin timbers" />
-      <br><div class="marginleft10 lead">Custom Home in Teton Valley at <a href="http://www.riverrimranch.com">River Rim Ranch</a>.</div>
+      <br><div class="marginleft10 lead">Custom Home in Teton Valley at River Rim Ranch.</div>
     <img src="/assets/images/teton_valley_residence.jpg" class="img-rounded img-responsive" alt="Home in Teton Valley, ID" />
       <br><div class="marginleft10 lead">Complete renovation in Teton Valley.</div>
     <img src="/assets/images/hand_framed_timber_roof.jpg" class="img-responsive img-rounded" alt="Hand framed timber roof" />
