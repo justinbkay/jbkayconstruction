@@ -73,7 +73,10 @@ $().ready(function() {
                 {src: '/assets/images/archway.jpg', alt: 'Archway feature in Rexburg custom home', text: 'Archway feature in Rexburg custom home.'},
                 {src: '/assets/images/circular_staircase.jpg', alt: 'Circular staircase in Rexburg custom home', text: 'Circular staircase in Rexburg custom home.'},
                 {src: '/assets/images/custom_fireplace.jpg', alt: 'Custom fireplace front in Island Park cabin', text: 'Custom fireplace front in Island Park cabin.'},
-                {src: '/assets/images/timber_staircase.jpg', alt: 'Timber staircase in a cabin', text: 'Timber staircase in a cabin.'}
+                {src: '/assets/images/timber_staircase.jpg', alt: 'Timber staircase in a cabin', text: 'Timber staircase in a cabin.'},
+                {src: '/assets/images/entry_way.jpg', alt: 'Entry Way with custom floor', text: 'Entry Way with Custom Hardwood Floor'},
+                {src: '/assets/images/stair_case_custom.jpg', alt: 'Custom Staircase and cat walk', text: 'Custom stair case'},
+                {src: '/assets/images/kitchen_custom.jpg', alt: 'Custom kitchen', text: 'Custom Kitchen'}
                ];
 
   for (var i = img.length - 1; i >= 0; i--){
